@@ -34,8 +34,8 @@ I am a **Data Science** student at **Punjab University College of Information Te
 
 ## 📡 Contact Me
 - 📧 [abdullahbasharat400@gmail.com](mailto:muhammadbilalqaiar@gmail.com)
-- 🔗 [GitHub](https://github.com/Abdullah-Basharat)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-basharat786/)
+- 🔗 [GitHub](https://github.com/bilalqaisar1)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-qaisar-439b13262/)
 
 ---
 *Looking forward to collaborating and building impactful AI-driven solutions!*  
