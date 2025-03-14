@@ -3,7 +3,7 @@
 I am a **Data Science** student at **Punjab University College of Information Technology**, with a deep passion for leveraging machine learning, AI, and statistical analysis to uncover actionable insights from complex data. I am currently specializing in **Large Language Models (LLMs)**, **AI chatbots**, and **data visualization**. I have a strong foundation in both **software development** and **data engineering**, and I’m eager to contribute to cutting-edge projects in **data science** and **AI**.
 
 ## 🔧 Skills
-- **Languages**: Python, SQL, HTML/CSS, JavaScript (Basics)
+- **Languages**: Python, C++, SQL, HTML/CSS, JavaScript (Basics)
 - **Technologies**: Django, MySQL, MongoDB, BigQuery, Power BI, AWS (S3, DynamoDB)
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, Hugging Face Transformers, RAG, LangChain, ChatGPT
 - **Tools**: Git, Jupyter Notebook, Docker, VS Code, PyCharm
@@ -21,8 +21,7 @@ I am a **Data Science** student at **Punjab University College of Information Te
 - **Descriptive and Statistical Analysis on Parenting Styles in Pakistan**: Led a statistical analysis on the impact of parenting styles on adolescent mental health, analyzing data from over 300 participants and producing actionable insights.
   
 ## 🎓 Education
-- **Bachelor of Data Science** | Punjab University College of Information Technology (Sep. 2021 - Present)  
-  *Grade: 3.86/4.00*  
+- **Bachelor of Data Science** | Punjab University College of Information Technology (Dec. 2022 - Present)    
 
 ## 🏆 Achievements & Certifications
 - **Data Science Certification** (IBM - Cognitive Class)
@@ -34,7 +33,7 @@ I am a **Data Science** student at **Punjab University College of Information Te
 - **ChatGPT Prompt Engineering** (DeepLearning.AI)
 
 ## 📡 Contact Me
-- 📧 [abdullahbasharat400@gmail.com](mailto:abdullahbasharat400@gmail.com)
+- 📧 [abdullahbasharat400@gmail.com](mailto:muhammadbilalqaiar@gmail.com)
 - 🔗 [GitHub](https://github.com/Abdullah-Basharat)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-basharat786/)
 
