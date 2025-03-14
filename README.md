@@ -33,7 +33,7 @@ I am a **Data Science** student at **Punjab University College of Information Te
 - **ChatGPT Prompt Engineering** (DeepLearning.AI)
 
 ## 📡 Contact Me
-- 📧 [abdullahbasharat400@gmail.com](mailto:muhammadbilalqaiar@gmail.com)
+- 📧 [muhammadbilalqaiar@gmail.com](mailto:muhammadbilalqaiar@gmail.com)
 - 🔗 [GitHub](https://github.com/bilalqaisar1)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-qaisar-439b13262/)
 
