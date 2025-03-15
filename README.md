@@ -24,12 +24,7 @@ I am a **Data Science** student at **Punjab University College of Information Te
 - **Bachelor of Data Science** | Punjab University College of Information Technology (Dec. 2022 - Present)    
 
 ## 🏆 Achievements & Certifications
-- **Data Science Certification** (IBM - Cognitive Class)
-- **Machine Learning Specialization** (DeepLearning.AI)
 - **Python for Data Science** (IBM - Cognitive Class)
-- **Second Runner-up** in **Techfest-1.0** (PUCIT)
-- **LangChain for LLM** (DeepLearning.AI)
-- **AI Agents in LangGraph** (DeepLearning.AI)
 - **ChatGPT Prompt Engineering** (DeepLearning.AI)
 
 ## 📡 Contact Me
