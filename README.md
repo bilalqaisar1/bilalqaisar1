@@ -1,4 +1,4 @@
-# Muhammad Bilal Qaisar | Data & AI Engineer | Machine Learning |
+# Muhammad Bilal Qaisar | Data & AI Engineer | Machine Learning 
 
 I am a **Data Science** student at **Punjab University College of Information Technology**, with a deep passion for leveraging machine learning, AI, and statistical analysis to uncover actionable insights from complex data. I am currently specializing in **Large Language Models (LLMs)**, **AI chatbots**, and **data visualization**. I have a strong foundation in both **software development** and **data engineering**, and I’m eager to contribute to cutting-edge projects in **data science** and **AI**.
 
