@@ -9,8 +9,8 @@ I am a **Data Science** student at **Punjab University College of Information Te
 - **Tools**: Git, Jupyter Notebook, Docker, VS Code, PyCharm
 
 ## 🚀 Projects
-- **[Pakistan Sign Language Recognition System]**: Created a sign language recognition system using an I3D deep learning model, achieving 88% accuracy in real-time video gesture recognition.
-- **[Auto Parts Management System]**: Developed a web-based Auto Parts Management System using Django and MySQL for inventory management and database management.
+- **[Smart Surveillance System]**: Developed a Computer Vision model to detect fighting and smoking behaviors by training on a video dataset, converting videos into frames for preprocessing.
+- **[Query Search Engine]**: Developed a Python-based search query engine using a balanced binary tree with 10,000 nodes for efficient data management and retrieval.
 - **[Chatbot using RAG (Real-Time Streaming)]**: Built a dynamic chatbot using the RAG technique to efficiently retrieve and synthesize real-time data for better user interactions.
 - **Machine Learning Projects**: 
     - Developed a **speech-to-text** translator for English and Urdu.
