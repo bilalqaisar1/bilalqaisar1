@@ -1,36 +1,77 @@
-# Muhammad Bilal Qaisar | Data & AI Engineer | Machine Learning 
+# Muhammad Bilal Qaisar
 
-I am a **Data Science** student at **Punjab University College of Information Technology**, with a deep passion for leveraging machine learning, AI, and statistical analysis to uncover actionable insights from complex data. I am currently specializing in **Large Language Models (LLMs)**, **AI chatbots**, and **data visualization**. I have a strong foundation in both **software development** and **data engineering**, and I’m eager to contribute to cutting-edge projects in **data science** and **AI**.
++92 324 9793611 | [muhammadbilalqaiar@gmail.com](mailto:muhammadbilalqaiar@gmail.com)  
+[github.com/bilalqaisar1](https://github.com/bilalqaisar1) | [linkedin.com/in/muhammad-bilal-qaisar-439b13262/](https://linkedin.com/in/muhammad-bilal-qaisar-439b13262/)
 
-## 🔧 Skills
-- **Languages**: Python, C++, SQL, HTML/CSS, JavaScript (Basics)
-- **Technologies**: Django, MySQL, MongoDB, BigQuery, Power BI, AWS (S3, DynamoDB)
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, Hugging Face Transformers, RAG, LangChain, ChatGPT
-- **Tools**: Git, Jupyter Notebook, Docker, VS Code, PyCharm
-
-## 🚀 Projects
-- **[Smart Surveillance System]**: Developed a Computer Vision model to detect fighting and smoking behaviors by training on a video dataset, converting videos into frames for preprocessing.
-- **[Query Search Engine]**: Developed a Python-based search query engine using a balanced binary tree with 10,000 nodes for efficient data management and retrieval.
-- **[Chatbot using RAG (Real-Time Streaming)]**: Built a dynamic chatbot using the RAG technique to efficiently retrieve and synthesize real-time data for better user interactions.
-- **Machine Learning Projects**: 
-    - Developed a **speech-to-text** translator for English and Urdu.
-    - Built an **OCR system** to extract text from images.
-    - Created a **video-to-text extraction model** for processing video input and retrieving text.
-
-## 🧠 Research Projects
-- **Descriptive and Statistical Analysis on Parenting Styles in Pakistan**: Led a statistical analysis on the impact of parenting styles on adolescent mental health, analyzing data from over 300 participants and producing actionable insights.
-  
-## 🎓 Education
-- **Bachelor of Data Science** | Punjab University College of Information Technology (Dec. 2022 - Present)    
-
-## 🏆 Achievements & Certifications
-- **Python for Data Science** (IBM - Cognitive Class)
-- **ChatGPT Prompt Engineering** (DeepLearning.AI)
-
-## 📡 Contact Me
-- 📧 [muhammadbilalqaiar@gmail.com](mailto:muhammadbilalqaiar@gmail.com)
-- 🔗 [GitHub](https://github.com/bilalqaisar1)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-qaisar-439b13262/)
+Data Science professional skilled in AI (Agentic, Generative), database management (Oracle, MySQL, SQL Server), and data solutions. Experienced in applying AI/ML to build scalable systems, optimize workflows, and deliver insights. Passionate about creating data-driven and AI-powered tools for intelligent decision-making.
 
 ---
-*Looking forward to collaborating and building impactful AI-driven solutions!*  
+
+## 🎓 Education
+
+**Punjab University College of Information Technology**  
+Bachelor of Data Science (CGPA 3.0/4.0)  
+Dec 2022 – May 2026 | Lahore, Pakistan
+
+**Superior College**  
+ICS – Physics  
+July 2020 – July 2022 | Gujranwala, Pakistan
+
+---
+
+## 💼 Experience
+
+### Primo Dialler — *AI Engineer Intern*  
+Sep 2025 – Present | Lahore, Pakistan
+
+- Developed and maintained production-ready RESTful APIs, implementing features with FastAPI and Node.js.
+- Developed and deployed LLM-powered workflows into production applications using LangChain for prompt chaining, tools, and agents.
+- Implemented Generative AI solutions, including RAG pipelines and agent-based systems, for live production environments.
+- Contributed to the deployment and optimization of scalable AI solutions, focusing on production performance and reliability.
+
+---
+
+## 🚀 Projects
+
+### FinCortex – AI Brain for Corporate Reimbursement  
+- Built an AI-powered reimbursement system using LLMs for process automation.
+- Implemented document parsing, policy validation, and fraud detection with LangChain.
+- Developed FastAPI backend with PostgreSQL for enterprise integration.  
+**Tech:** React, Python, LangChain, FastAPI, PostgreSQL, LLMs, RAG, Streamlit
+
+### IntelliHire – Smart Hiring Powered By AI  
+- Built an AI-powered voice interview system with resume-based dynamic question generation.
+- Developed Streamlit frontend and FastAPI backend for real-time interview flow.
+- Integrated OpenAI for Q&A generation and scoring, with TTS/STT using Edge TTS and Faster Whisper.  
+**Tech:** Python, FastAPI, Streamlit, OpenAI, Microsoft Edge TTS, Faster Whisper STT
+
+### Smart Surveillance System  
+- Developed a computer vision model to detect fighting and smoking in videos.
+- Deployed a real-time monitoring interface using Streamlit.  
+**Tech:** Python, OpenCV, PyTorch, Streamlit, Computer Vision
+
+### AI/ML and Data Visualization Projects  
+- Created an ML model to identify fake job postings using NLP techniques.
+- Developed a hypertension prediction model using data analysis and machine learning.
+- Designed interactive Power BI dashboards for sales performance tracking and insights.  
+**Tech:** Python, Machine Learning, NLP, Power BI, ETL, SQL, Data Visualization
+
+---
+
+## 🛠️ Skills
+
+**Programming & Scripting**  
+Python, C++, SQL, JavaScript, HTML, CSS, Power BI (DAX)
+
+**Databases**  
+PostgreSQL, MySQL, Oracle, SQL Server, MongoDB
+
+**AI / ML & Data Science**  
+Machine Learning, LangChain, LLMs, RAG, Agentic AI, NLP, Big Data Analytics, Data Visualization, Model Deployment, TTS/STT, Computer Vision, PyTorch, OpenCV
+
+**Frameworks & Tools**  
+FastAPI, Streamlit, React, Node.js, ETL/ELT, Data Warehousing, LiveKit, N8N, OpenAI, Microsoft Edge TTS, Faster Whisper
+
+---
+
+*Looking forward to collaborating and building impactful AI-driven solutions!*
