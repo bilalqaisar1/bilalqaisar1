@@ -1,77 +1,315 @@
 # Muhammad Bilal Qaisar
 
-+92 324 9793611 | [muhammadbilalqaiar@gmail.com](mailto:muhammadbilalqaiar@gmail.com)  
-[github.com/bilalqaisar1](https://github.com/bilalqaisar1) | [linkedin.com/in/muhammad-bilal-qaisar-439b13262/](https://linkedin.com/in/muhammad-bilal-qaisar-439b13262/)
+**Software Engineer | AI Engineer**
 
-Data Science professional skilled in AI (Agentic, Generative), database management (Oracle, MySQL, SQL Server), and data solutions. Experienced in applying AI/ML to build scalable systems, optimize workflows, and deliver insights. Passionate about creating data-driven and AI-powered tools for intelligent decision-making.
-
----
-
-## 🎓 Education
-
-**Punjab University College of Information Technology**  
-Bachelor of Data Science (CGPA 3.0/4.0)  
-Dec 2022 – May 2026 | Lahore, Pakistan
-
-**Superior College**  
-ICS – Physics  
-July 2020 – July 2022 | Gujranwala, Pakistan
+📍 Lahore, Pakistan  
+📧 muhammadbilalqaisar@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-bilal-qaisar-439b13262/  
+💻 GitHub: https://github.com/bilalqaisar1  
 
 ---
 
-## 💼 Experience
+# About Me
 
-### Primo Dialler — *AI Engineer Intern*  
-Sep 2025 – Present | Lahore, Pakistan
+Data Science professional specializing in **Artificial Intelligence (Agentic AI & Generative AI)**, **Machine Learning**, **Computer Vision**, and **Full-Stack Software Development**. Experienced in designing and deploying AI-powered web and mobile applications with real-time analytics, intelligent automation, and on-device AI inference.
 
-- Developed and maintained production-ready RESTful APIs, implementing features with FastAPI and Node.js.
-- Developed and deployed LLM-powered workflows into production applications using LangChain for prompt chaining, tools, and agents.
-- Implemented Generative AI solutions, including RAG pipelines and agent-based systems, for live production environments.
-- Contributed to the deployment and optimization of scalable AI solutions, focusing on production performance and reliability.
+My expertise spans **LLM applications**, **Computer Vision**, **AI Agents**, **React/React Native**, **FastAPI**, **MediaPipe**, **TensorFlow Lite**, and modern cloud-native development practices.
 
 ---
 
-## 🚀 Projects
+# Technical Skills
 
-### FinCortex – AI Brain for Corporate Reimbursement  
-- Built an AI-powered reimbursement system using LLMs for process automation.
-- Implemented document parsing, policy validation, and fraud detection with LangChain.
-- Developed FastAPI backend with PostgreSQL for enterprise integration.  
-**Tech:** React, Python, LangChain, FastAPI, PostgreSQL, LLMs, RAG, Streamlit
+## Programming Languages
+- Python
+- C++
+- SQL
+- JavaScript
+- HTML
+- CSS
 
-### IntelliHire – Smart Hiring Powered By AI  
-- Built an AI-powered voice interview system with resume-based dynamic question generation.
-- Developed Streamlit frontend and FastAPI backend for real-time interview flow.
-- Integrated OpenAI for Q&A generation and scoring, with TTS/STT using Edge TTS and Faster Whisper.  
-**Tech:** Python, FastAPI, Streamlit, OpenAI, Microsoft Edge TTS, Faster Whisper STT
+## Frameworks & Libraries
+- FastAPI
+- React
+- React Native
+- LangChain
+- LangGraph
+- CrewAI
+- Transformers
+- TensorFlow
 
-### Smart Surveillance System  
-- Developed a computer vision model to detect fighting and smoking in videos.
-- Deployed a real-time monitoring interface using Streamlit.  
-**Tech:** Python, OpenCV, PyTorch, Streamlit, Computer Vision
+## Databases
+- PostgreSQL
+- MongoDB
+- Redis
+- Supabase
 
-### AI/ML and Data Visualization Projects  
-- Created an ML model to identify fake job postings using NLP techniques.
-- Developed a hypertension prediction model using data analysis and machine learning.
-- Designed interactive Power BI dashboards for sales performance tracking and insights.  
-**Tech:** Python, Machine Learning, NLP, Power BI, ETL, SQL, Data Visualization
+## Vector Databases
+- Pinecone
+- FAISS
+- ChromaDB
+
+## Software Engineering
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- REST APIs
+- System Design
+- Microservices
+- ETL / ELT Pipelines
+- Data Modeling & Warehousing
+- Git
+- GitHub
+- GitHub Actions (CI/CD)
+
+## Artificial Intelligence
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Multi-Agent Systems
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Prompt Engineering
+- LoRA / QLoRA Fine-Tuning
+- Model Deployment
+- OCR & Document AI
+- Text-to-Speech (TTS)
+- Speech-to-Text (STT)
+- Voice AI
+
+## Tools & Platforms
+- Docker
+- Kubernetes
+- AWS EC2
+- AWS S3
+- Linux
+- OpenAI API
+- n8n
+- LiveKit
 
 ---
 
-## 🛠️ Skills
+# Professional Experience
 
-**Programming & Scripting**  
-Python, C++, SQL, JavaScript, HTML, CSS, Power BI (DAX)
+## AI/CV Intern
+### 360 Solutions
+**Jun 2026 – Present**
 
-**Databases**  
-PostgreSQL, MySQL, Oracle, SQL Server, MongoDB
+### Responsibilities
 
-**AI / ML & Data Science**  
-Machine Learning, LangChain, LLMs, RAG, Agentic AI, NLP, Big Data Analytics, Data Visualization, Model Deployment, TTS/STT, Computer Vision, PyTorch, OpenCV
+- Design and develop AI-powered cross-platform mobile applications using **React Native**.
+- Deploy real-time Computer Vision models using **MediaPipe** and **TensorFlow Lite**.
+- Build high-performance image and video processing pipelines.
+- Implement:
+  - Pose Estimation
+  - Object Detection
+  - Image Classification
+- Optimize TensorFlow Lite models using MediaPipe Tasks API.
+- Collaborate with engineering teams to deploy production-ready AI features.
 
-**Frameworks & Tools**  
-FastAPI, Streamlit, React, Node.js, ETL/ELT, Data Warehousing, LiveKit, N8N, OpenAI, Microsoft Edge TTS, Faster Whisper
+### Technologies
+
+- React Native
+- MediaPipe
+- TensorFlow Lite
+- Computer Vision
+- Android Development
 
 ---
 
-*Looking forward to collaborating and building impactful AI-driven solutions!*
+## AI Engineer Intern
+### Primo Dialler
+
+**Dec 2025 – Mar 2026**
+
+### Responsibilities
+
+- Built end-to-end AI applications.
+- Developed REST APIs using FastAPI.
+- Built frontend applications using React.
+- Developed LLM applications using:
+  - LangChain
+  - LangGraph
+- Implemented:
+  - Retrieval-Augmented Generation
+  - AI Agents
+  - Workflow Automation
+- Integrated:
+  - Speech-to-Text
+  - Text-to-Speech
+- Assisted in production deployment and optimization.
+
+### Technologies
+
+- Python
+- FastAPI
+- React
+- LangChain
+- LangGraph
+- LLMs
+- Docker
+- TTS
+- STT
+
+---
+
+# Projects
+
+---
+
+## FinCortex – AI Brain for Corporate Reimbursements
+
+GitHub:
+https://github.com/bilalqaisar1/FinCortex-AI_Brain_for_Corporate_Reimbursements
+
+### Overview
+
+An AI-powered reimbursement management platform that automates corporate reimbursement workflows through OCR, Document AI, and intelligent policy validation.
+
+### Features
+
+- Admin, Manager and User role-based architecture
+- Receipt upload and scanning
+- OCR-based receipt understanding
+- AI validation of reimbursement policies
+- Automatic detection of non-reimbursable items
+- Reimbursement workflow automation
+- Approval tracking
+- Dashboards
+- Business insights
+
+### Technologies
+
+- React
+- FastAPI
+- Supabase
+- LangChain
+- Azure Document Intelligence
+- Docker
+- LLMs
+
+---
+
+## Fit Pulse AI – AI Fitness Trainer
+
+Google Play:
+https://play.google.com/store/apps/details?id=com.threesixty.fitpulse.ai
+
+### Overview
+
+An AI-powered fitness application that performs real-time pose estimation and workout tracking entirely on-device.
+
+### Features
+
+- 12 AI workout modes
+- Automatic repetition counting
+- AI Pose Correction
+- Real-time pose estimation
+- On-device inference
+- Exercise tracking
+
+### Technologies
+
+- React Native
+- MediaPipe Tasks API
+- TensorFlow Lite
+- Computer Vision
+- Text-to-Speech
+
+---
+
+## IntelliHire – Smart Hiring Powered by AI
+
+GitHub:
+https://github.com/bilalqaisar1/IntelliHire-Smart-hiring-powered-by-AI
+
+### Overview
+
+An AI-powered interview assistant capable of conducting automated interviews through speech and LLMs.
+
+### Features
+
+- Resume parsing
+- AI-generated interview questions
+- Voice interviews
+- Speech-to-Text
+- Text-to-Speech
+- Automatic candidate evaluation
+- AI scoring
+
+### Technologies
+
+- Python
+- FastAPI
+- Streamlit
+- OpenAI
+- Faster Whisper
+- TTS
+- STT
+
+---
+
+# Education
+
+## Punjab University College of Information Technology (PUCIT)
+
+**Bachelor of Data Science**
+
+December 2022 – May 2026
+
+Lahore, Pakistan
+
+---
+
+# Core Competencies
+
+- Artificial Intelligence
+- Agentic AI
+- Generative AI
+- Machine Learning
+- Computer Vision
+- Large Language Models
+- AI Agents
+- RAG Systems
+- OCR
+- Document AI
+- Mobile AI
+- On-device AI
+- React Native
+- FastAPI
+- Backend Development
+- Full-Stack Development
+- REST APIs
+- Docker
+- Cloud Deployment
+- Production AI Systems
+
+---
+
+# Areas of Interest
+
+- AI Agents
+- Multi-Agent Systems
+- Computer Vision
+- Mobile AI
+- Edge AI
+- Large Language Models
+- Agentic Workflows
+- AI Automation
+- Real-Time Analytics
+- Intelligent Mobile Applications
+
+---
+
+# Contact
+
+**Muhammad Bilal Qaisar**
+
+📧 muhammadbilalqaisar@gmail.com
+
+📍 Lahore, Pakistan
+
+GitHub:
+https://github.com/bilalqaisar1
+
+LinkedIn:
+https://www.linkedin.com/in/muhammad-bilal-qaisar-439b13262/
